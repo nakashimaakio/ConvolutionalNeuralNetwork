@@ -1,5 +1,1 @@
 # ConvolutionalNeuralNetwork
-
-##testa
-
-*testb

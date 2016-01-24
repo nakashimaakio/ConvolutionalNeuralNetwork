@@ -18,7 +18,10 @@ visual c++ 2010で実装
 |難易度|初心者|中級者|
 |コマンドライン引数|なし|あり|
 
-
+|header1|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c|
 
 ###使い方その１
 
